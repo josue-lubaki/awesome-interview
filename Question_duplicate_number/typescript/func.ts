@@ -1,3 +1,7 @@
+let array: Array<number> = [1, 7, 3, 4, 5, 6, 7, 3, 4];
+console.log(findDuplicate(array));
+// ADD YOUR CONSOLE LOG HERE
+
 /**
  * findDuplicate : Function to find duplicate number in an array
  * @param {Array<number>} arr - array of numbers
@@ -32,4 +36,4 @@ function findDuplicateByJosueLubaki(arr: Array<number>): Array<number> {
   return duplicates;
 }
 
-console.log(findDuplicate([1, 7, 3, 4, 5, 6, 7, 3, 4]));
+// WRITE YOUR METHOD HERE
