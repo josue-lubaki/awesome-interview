@@ -5,34 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="af173070-4005-44cf-9c94-9af039d62caf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java/main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kotlin.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/kotlin-reflect-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/kotlin-reflect.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/kotlin-stdlib-jdk7-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/kotlin-stdlib-jdk7.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/kotlin-stdlib-jdk8-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/kotlin-stdlib-jdk8.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/kotlin-stdlib-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/kotlin-stdlib.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/kotlin-test-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/kotlin-test.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/Main.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Question_duplicate_number/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../Question_duplicate_number/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Question_duplicate_number/javascript/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Question_duplicate_number/javascript/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +21,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/app/Main.kt" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -65,6 +41,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../nodeApp/my-application" />
   </component>
   <component name="RecentsManager">
     <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
