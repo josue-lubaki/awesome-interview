@@ -22,17 +22,29 @@ public class Main {
 
     }
 
+    /**
+     * findPairs into ArrayList, return list of pairs that sum to targetSum
+     * 
+     * @param list ArrayList of integers
+     * @param sum  target sum
+     * @return List of duplicates
+     * @author Josue Lubaki
+     */
     public static List<HashMap<Integer, Integer>> findPairs(List<Integer> list, int sum) {
         List<HashMap<Integer, Integer>> pairs = new ArrayList<>();
 
         for (int i = 0; i < list.size(); i++) {
-            for (Integer second : list) {
-                if (list.get(i) + second == sum) {
+            for (int j = 0; j < list.size(); j++) {
+
+                if (i == j)
+                    continue;
+
+                if (list.get(i) + list.get(j) == sum) {
                     HashMap<Integer, Integer> map = new HashMap<>();
-                    map.put(list.get(i), second);
+                    map.put(list.get(i), list.get(j));
 
                     HashMap<Integer, Integer> mapReverse = new HashMap<>();
-                    mapReverse.put(second, list.get(i));
+                    mapReverse.put(list.get(j), list.get(i));
 
                     if (!pairs.contains(map) && !pairs.contains(mapReverse))
                         pairs.add(map);
