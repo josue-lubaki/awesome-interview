@@ -27,7 +27,7 @@ public class Main {
      * 
      * @param list ArrayList of integers
      * @param sum  target sum
-     * @return List of duplicates
+     * @return List of pairs
      * @author Josue Lubaki
      */
     public static List<HashMap<Integer, Integer>> findPairs(List<Integer> list, int sum) {
