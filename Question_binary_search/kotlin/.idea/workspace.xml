@@ -1,10 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="557cac29-c6ad-4355-993d-3e612b2456e5" name="Changes" comment="" />
+    <list default="true" id="d0339643-b4a8-4d50-95f6-ab32242b39b5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../java/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/src/app/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kotlin.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.vscode/last.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Question_rotate_left_number/java/src/app/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Question_rotate_left_number/java/src/app/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Question_rotate_left_number/kotlin/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Question_rotate_left_number/kotlin/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,7 +28,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin Class" />
+        <option value="Kotlin File" />
       </list>
     </option>
   </component>
@@ -23,21 +38,19 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="24DcE4f2lolBFgIRWHl3Mh1kyJs" />
+  <component name="ProjectId" id="24E8xHfU7BRzp6A91mFqrjgTeZE" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="RunManager">
     <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
@@ -56,13 +69,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="557cac29-c6ad-4355-993d-3e612b2456e5" name="Changes" comment="" />
-      <created>1643168484972</created>
+      <changelist id="d0339643-b4a8-4d50-95f6-ab32242b39b5" name="Changes" comment="" />
+      <created>1643184633308</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1643168484972</updated>
-      <workItem from="1643168486123" duration="1124000" />
-      <workItem from="1643181488417" duration="48000" />
+      <updated>1643184633308</updated>
+      <workItem from="1643184634438" duration="593000" />
     </task>
     <servers />
   </component>

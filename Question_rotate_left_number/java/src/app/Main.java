@@ -5,10 +5,9 @@ import java.util.List;
 
 public class Main {
     public static void main(String[] args) {
-        Integer[] tab = { 1, 2, 3, 4, 5, 6, 7 };
         List<Integer> list = new ArrayList<>() {
             {
-                this.addAll(List.of(tab));
+                this.addAll(List.of(1, 2, 3, 4, 5, 6, 7));
             }
         };
 

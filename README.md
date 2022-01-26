@@ -6,3 +6,4 @@
 * Question 3 : [write a method that checks if two strings or an array of strings are anagrams](https://github.com/josue-lubaki/awesome-interview/tree/main/Question_is_anagrams)
 * Question 4 : [Compute the first n Fibonacci numbers](https://github.com/josue-lubaki/awesome-interview/tree/main/Question_fibonacci)
 * Question 5 : [rotations elements on the array](https://github.com/josue-lubaki/awesome-interview/tree/main/Question_rotate_left_number)
+* Question 6 : [Binary Search using Recursion](https://github.com/josue-lubaki/awesome-interview/tree/main/Question_binary_search)
