@@ -4,8 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d1afb8da-3834-42c0-8d8d-3f9ff5ded55a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../python/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python/main.py" afterDir="false" />
+    <list default="true" id="557cac29-c6ad-4355-993d-3e612b2456e5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../java/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/src/app/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Question_fibonacci/kotlin/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Question_fibonacci/kotlin/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Question_fibonacci/python/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Question_fibonacci/python/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,7 +24,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin File" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -25,35 +34,25 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="242OsExKnvl46QITZkkLEthG74h" />
+  <component name="ProjectId" id="24DcE4f2lolBFgIRWHl3Mh1kyJs" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-  </component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\GitHub\2022\awesome-interview\Question_fibonacci\kotlin\src\app" />
-    </key>
   </component>
   <component name="RunManager">
-    <configuration name="Main" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="app.Main" />
+    <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="app.MainKt" />
       <module name="kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -61,20 +60,19 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.Main" />
+        <item itemvalue="Kotlin.MainKt" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="d1afb8da-3834-42c0-8d8d-3f9ff5ded55a" name="Changes" comment="" />
-      <created>1642825425002</created>
+      <changelist id="557cac29-c6ad-4355-993d-3e612b2456e5" name="Changes" comment="" />
+      <created>1643168484972</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1642825425002</updated>
-      <workItem from="1642825426153" duration="1754000" />
-      <workItem from="1643167022873" duration="612000" />
+      <updated>1643168484972</updated>
+      <workItem from="1643168486123" duration="1124000" />
     </task>
     <servers />
   </component>

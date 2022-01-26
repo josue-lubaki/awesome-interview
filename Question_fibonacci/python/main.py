@@ -32,4 +32,4 @@ def fibonacci_first(n):
 # Test the function
 print(fibonacci_first_list(10))  # [0, 1, 1, 2, 3, 5, 8, 13, 21, 34]
 print(fibonacci_first_recursion(10))  # [0, 1, 1, 2, 3, 5, 8, 13, 21, 34]
-fibonacci_first(10)  # 1 1 2 3 5 8 13 21 34
+fibonacci_first(10)  # 0 1 1 2 3 5 8 13 21 34
