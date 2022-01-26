@@ -10,4 +10,4 @@ def rotLeft(arr, d):
 # Test
 arr = [1,2,3,4,5,6,7]
 d = 4
-print(rotLeft(arr, d))
+print(rotLeft(arr, d)) # [5,6,7,1,2,3,4]

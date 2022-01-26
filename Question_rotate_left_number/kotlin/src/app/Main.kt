@@ -4,7 +4,7 @@ fun main() {
     val arr = mutableListOf(1,2,3,4,5,6,7)
     val d = 4
 
-    // test Method
+    // test Method - Result: [5, 6, 7, 1, 2, 3, 4]
     print(rotateLeft(arr,d))
 }
 
