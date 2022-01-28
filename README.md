@@ -7,3 +7,4 @@
 * Question 4 : [Compute the first n Fibonacci numbers](https://github.com/josue-lubaki/awesome-interview/tree/main/Question_fibonacci)
 * Question 5 : [rotations elements on the array](https://github.com/josue-lubaki/awesome-interview/tree/main/Question_rotate_left_number)
 * Question 6 : [Binary Search using Recursion](https://github.com/josue-lubaki/awesome-interview/tree/main/Question_binary_search)
+* Question 7 : [PlayOff_Game](https://github.com/josue-lubaki/awesome-interview/tree/main/Proto_PlayOff)
