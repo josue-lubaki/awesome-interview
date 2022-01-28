@@ -2,23 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d0339643-b4a8-4d50-95f6-ab32242b39b5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../java/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java/java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java/src/app/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kotlin.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/Main.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.vscode/last.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Question_rotate_left_number/java/src/app/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Question_rotate_left_number/java/src/app/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Question_rotate_left_number/kotlin/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Question_rotate_left_number/kotlin/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +35,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../uqtr-app" />
   </component>
   <component name="RunManager">
     <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
@@ -74,7 +59,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1643184633308</updated>
-      <workItem from="1643184634438" duration="593000" />
+      <workItem from="1643184634438" duration="655000" />
+      <workItem from="1643225697946" duration="88000" />
     </task>
     <servers />
   </component>

@@ -11,6 +11,7 @@ public class Main {
         String[] arr = new String[] { s1, s2, s3, s1, s3 };
         System.out.println(isAnagramByJosueLubaki(s1, s2)); // true
         System.out.println(isAnagramByJosueLubaki(arr)); // True
+        System.out.println(isAnagrams(s1, s3)); // True
         // ADD YOUR METHOD HERE
     }
 
@@ -127,12 +128,47 @@ public class Main {
     }
 
     /**
-     * Function that checks if two strings are anagrams of each other.
+     * This method checks if two strings are anagrams of each other.
      * 
-     * @param s1 first string
-     * @param s2 second string
-     * @return true if the strings are anagrams of each other, false otherwise
-     * @author ???
+     * @param str1 the first string
+     * @param str2 the second string
+     * @return true if the two strings are anagrams of each other, false otherwise
+     *         Method for checking if is anagrams (Recursive)
+     *         Complexity: O(n)
      */
-    // WRITE YOUR CODE HERE
+    public static boolean isAnagrams(String str1, String str2) {
+
+        // if one of the string is empty, then return false
+        if (str1.length() == 0 || str2.length() == 0) {
+            return false;
+        }
+
+        // if one of the string is a single character, then check if
+        // they are equal
+        if (str1.length() == 1 && str2.length() == 1) {
+            // toLowerCase()
+            return str1.toLowerCase().charAt(0) == str2.toLowerCase().charAt(0);
+        }
+
+        // sort the strings
+        char[] str1Char = str1.toLowerCase().toCharArray();
+        char[] str2Char = str2.toLowerCase().toCharArray();
+        Arrays.sort(str1Char);
+        Arrays.sort(str2Char);
+        str1 = new String(str1Char);
+        str2 = new String(str2Char);
+
+        // if the first character of the first string is not equal to the
+        // first character of the second string, then return false
+        if (str1.charAt(0) != str2.charAt(0)) {
+            return false;
+        }
+
+        // if the first character of the first string is equal to the first
+        // character of the second string, then remove the first character
+        // from the first string and the first character from the second
+        // string and call the method recursively
+        return isAnagrams(str1.substring(1), str2.substring(1));
+    }
+
 }
